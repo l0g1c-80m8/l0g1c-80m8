@@ -17,7 +17,7 @@
   <a href="https://github.com/l0g1c-80m8">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://discordapp.com.users/508653801406726147">
+  <a href="https://discordapp.com/users/508653801406726147">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="mailto:rutvik.p4t3l@gmail.com">
