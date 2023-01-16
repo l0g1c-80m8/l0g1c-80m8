@@ -1,12 +1,17 @@
 <h1>
-  Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am Rutvik 👨‍💻
+  <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc">
+    Hello there
+  </a>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am Rutvik 🧙‍♂️
 </h1>
 
-### 🧙‍♂️ About me
+### 👨‍💻 About me
+
+I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) about my work.
 
 By profession, I am a Software Engineer with demonstrated experience of working at a hyper-growth startup. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of  human-robot collaboration 🤖, space tech 🚀 and agriculture 🌳. Presently, I am working on sharpening my robotics skills.
 
-I also like to keep updated about blockchain, cyber security and video game development.
+I also like to keep updated on blockchain, cyber security and video game development.
 
 - 👨‍🎓 Masters Student [@USC](https://www.usc.edu/)
 - 👨‍💼 Former Software Engineer [@Tekion Corp.](https://tekion.com/)
@@ -35,3 +40,9 @@ I also like to keep updated about blockchain, cyber security and video game deve
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+<!---
+References:
+ - https://ileriayo.github.io/markdown-badges/
+ - https://www.sitepoint.com/github-profile-readme/
+---> 
