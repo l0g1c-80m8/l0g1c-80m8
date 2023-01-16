@@ -3,7 +3,7 @@
 </h1>
 
 
-### Find me on:
+### Find me on
 <div id="badges">
   <a href="https://www.linkedin.com/in/rutvik-p4t3l/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
