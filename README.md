@@ -5,7 +5,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am Rutvik 🧙‍♂️
 </h1>
 
-### 👨‍💻 About me
+### 👨‍💻 About me ###
 
 I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) about my work.
 
@@ -19,7 +19,7 @@ I also like to keep updated on blockchain, cyber security and video game develop
 - Leisure time goes to boxing 🥊, [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), archery 🏹, playing cricket 🏏, [...](https://www.youtube.com/watch?v=fllsKUNp8VA)
 
 
-### 🤙 Find me on
+### 🤙 Find me on ###
 <div id="badges">
   <a href="https://www.linkedin.com/in/rutvik-p4t3l/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,6 +40,8 @@ I also like to keep updated on blockchain, cyber security and video game develop
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+#### Feel free to leave me a message if you want to get in touch 🥥
 
 <!---
 References:
