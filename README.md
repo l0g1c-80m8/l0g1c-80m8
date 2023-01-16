@@ -15,7 +15,7 @@ I also like to keep updated on blockchain, cyber security and video game develop
 
 - 👨‍🎓 Masters student [@USC](https://www.usc.edu/)
 - 👨‍💼 Former Software Engineer [@Tekion Corp.](https://tekion.com/)
-- 💬 Talk to me about Robots, Rockets, and Cars
+- 💬 Talk to me about [Robots](https://www.youtube.com/watch?v=QRbvNL1PHKg), [Rockets](https://www.youtube.com/watch?v=IagOPTFL6e4), and [Cars](https://www.youtube.com/shorts/TCdjgo0VptI)
 - Leisure time goes to boxing 🥊, [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), archery 🏹, playing cricket 🏏, [...](https://www.youtube.com/watch?v=fllsKUNp8VA)
 
 
