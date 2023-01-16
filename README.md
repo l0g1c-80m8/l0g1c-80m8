@@ -1,5 +1,5 @@
 <div id=“header” align=“center”>
-  <img src=“https://twitter.com/10gic_80m8” width=“100"/>
+  <img src=“self_square.jpg” width=“100"/>
 </div>
 
 <div id="badges" align="center">
