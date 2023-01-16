@@ -2,6 +2,15 @@
   Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am Rutvik 👨‍💻
 </h1>
 
+### 🧙‍♂️ About me
+
+By profession, I am a Software Engineer with demonstrated experience of working at a hyper-growth startup. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of  human-robot collaboration 🤖, space tech 🚀 and agriculture 🌳. Presently, I am working on sharpening my robotics skills.
+
+- 👨‍🎓 Masters Student [@USC](https://www.usc.edu/)
+- 👨‍💼 Former Software Engineer [@Tekion Corp.](https://tekion.com/)
+- 💬 Talk to me about Robots, Rockets, and Cars
+- Leisure time goes to boxing 🥊, [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), archery 🏹 and playing cricket 🏏
+
 
 ### 🤙 Find me on
 <div id="badges">
