@@ -41,7 +41,7 @@ I also like to keep updated on blockchain, cyber security and video game develop
   </a>
 </div>
 
-#### Feel free to leave me a message if you want to get in touch 🥥
+#### Feel free to leave a message if you want to get in touch 🥥
 
 <!---
 References:
