@@ -1,5 +1,5 @@
 <div id=“header” align=“center”>
-  <img src=“self_square.jpg” width=“100"/>
+  <img src=“https://github.com/l0g1c-80m8/l0g1c-80m8/blob/develop/self_square.jpg” width=“100"/>
 </div>
 
 <div id="badges" align="center">
