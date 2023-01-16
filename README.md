@@ -6,6 +6,8 @@
 
 By profession, I am a Software Engineer with demonstrated experience of working at a hyper-growth startup. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of  human-robot collaboration 🤖, space tech 🚀 and agriculture 🌳. Presently, I am working on sharpening my robotics skills.
 
+I also like to keep updated about blockchain, cyber security and video game development.
+
 - 👨‍🎓 Masters Student [@USC](https://www.usc.edu/)
 - 👨‍💼 Former Software Engineer [@Tekion Corp.](https://tekion.com/)
 - 💬 Talk to me about Robots, Rockets, and Cars
