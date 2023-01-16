@@ -13,7 +13,7 @@ By profession, I am a Software Engineer with demonstrated experience of working 
 
 I also like to keep updated on blockchain, cyber security and video game development.
 
-- 👨‍🎓 Masters Student [@USC](https://www.usc.edu/)
+- 👨‍🎓 Masters student [@USC](https://www.usc.edu/)
 - 👨‍💼 Former Software Engineer [@Tekion Corp.](https://tekion.com/)
 - 💬 Talk to me about Robots, Rockets, and Cars
 - Leisure time goes to boxing 🥊, [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), archery 🏹 and playing cricket 🏏
