@@ -11,11 +11,11 @@ I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) a
 
 By profession, I am a Software Engineer with demonstrated experience of working at a hyper-growth startup. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of  human-robot collaboration 🤖, space tech 🚀 and agriculture 🌳. Presently, I am working on sharpening my robotics skills.
 
-I also like to keep updated on embedded system development, blockchain, cyber security and computer networking.
+I also like to keep updated on embedded system development, blockchain, cyber security and computer networkinghttps://sites.usc.edu/cam/.
 
 - 👨‍🎓 Masters student [@USC](https://www.usc.edu/)
 - 👨‍💼 Former Software Engineer [@Tekion Corp.](https://tekion.com/)
-- 👨‍⚕️ Graduate Student Researcher [@ICAROS Lab, USC](https://icaros.usc.edu/)
+- 👨‍⚕️ Robotics Researcher [@ICAROS Lab, USC](https://icaros.usc.edu/), [@Center for Advanced Manufacturing]()
 - 🙋‍♂️ Volunteer (embedded systems engineer) [@USC RPL](http://www.uscrpl.com/)
 - 💬 Talk to me about [Robots](https://www.youtube.com/watch?v=QRbvNL1PHKg), [Rockets](https://www.youtube.com/watch?v=IagOPTFL6e4), and [Cars](https://youtube.com/watch?v=TOWEAIG-OXU&feature=shares)
 - Leisure time goes to boxing 🥊, [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), archery 🏹, playing cricket 🏏, [...](https://www.youtube.com/watch?v=fllsKUNp8VA)
