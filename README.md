@@ -15,7 +15,7 @@ I also like to keep updated on embedded system development, blockchain, cyber se
 
 - 👨‍🎓 Masters student [@USC](https://www.usc.edu/)
 - 👨‍💼 Former Software Engineer [@Tekion Corp.](https://tekion.com/)
-- 👨‍⚕️ Robotics Researcher [@ICAROS Lab, USC](https://icaros.usc.edu/), [@RRoS Lab, USC]([https://sites.usc.edu/cam/](https://sites.usc.edu/rros/))
+- 👨‍⚕️ Robotics Researcher [@ICAROS Lab, USC](https://icaros.usc.edu/), [@RRoS Lab, USC](https://sites.usc.edu/rros/)
 - 🙋‍♂️ Volunteer (embedded systems engineer) [@USC RPL](http://www.uscrpl.com/)
 - 💬 Talk to me about [Robots](https://www.youtube.com/watch?v=QRbvNL1PHKg), [Rockets](https://www.youtube.com/watch?v=IagOPTFL6e4), and [Cars](https://youtube.com/watch?v=TOWEAIG-OXU&feature=shares)
 - Leisure time goes to boxing 🥊, [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), archery 🏹, playing cricket 🏏, [...](https://www.youtube.com/watch?v=fllsKUNp8VA)
