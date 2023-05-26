@@ -13,7 +13,7 @@ By profession, I am a Software Engineer with demonstrated experience of working 
 
 I also like to keep updated on embedded system development, blockchain, cyber security and computer networkinghttps://sites.usc.edu/cam/.
 
-- 👨‍🎓 Masters student [@USC](https://www.usc.edu/)
+- 👨‍🎓 Computer Science [@USC](https://www.usc.edu/), [@VIT](https://vit.ac.in/)
 - 👨‍💼 Former Software Engineer [@Tekion Corp.](https://tekion.com/)
 - 👨‍⚕️ Robotics Researcher [@ICAROS Lab, USC](https://icaros.usc.edu/), [@RRoS Lab, USC](https://sites.usc.edu/rros/)
 - 🙋‍♂️ Volunteer (embedded systems engineer) [@USC RPL](http://www.uscrpl.com/)
