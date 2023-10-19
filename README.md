@@ -11,7 +11,7 @@ I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) a
 
 By profession, I am a Software Engineer with demonstrated experience of working at a hyper-growth startup. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of  human-robot collaboration 🤖, space tech 🚀 and agriculture 🌳. Presently, I am working on sharpening my robotics skills.
 
-I also like to keep updated on embedded system development, blockchain, cyber security and computer networkinghttps://sites.usc.edu/cam/.
+I also like to keep updated on embedded system development, blockchain, cyber security and computer networking.
 
 - 👨‍🎓 Computer Science [@USC](https://www.usc.edu/), [@VIT](https://vit.ac.in/)
 - 👨‍⚕️ Robotics Researcher [@ICAROS Lab, USC](https://icaros.usc.edu/), [@RRoS Lab, USC](https://sites.usc.edu/rros/)
