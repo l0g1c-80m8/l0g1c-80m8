@@ -14,7 +14,7 @@ By profession, I am a Software Engineer with demonstrated experience of working 
 I also like to keep updated on embedded system development, blockchain, cyber security and computer networking.
 
 - 👨‍🎓 Computer Science [@USC](https://www.usc.edu/), [@VIT](https://vit.ac.in/)
-- 👨‍⚕️ Robotics Researcher [@ICAROS Lab, USC](https://icaros.usc.edu/), [@RRoS Lab, USC](https://sites.usc.edu/rros/)
+- 👨‍⚕️ Robotics Research [@ICAROS Lab, USC](https://icaros.usc.edu/), [@RRoS Lab, USC](https://sites.usc.edu/rros/)
 - 👨‍💼 Former Software Engineer [@Tekion Corp.](https://tekion.com/)
 - 🙋‍♂️ Ex-Volunteer (embedded systems engineer) [@USC RPL](http://www.uscrpl.com/)
 - 💬 Talk to me about [Robots](https://www.youtube.com/watch?v=QRbvNL1PHKg), [Rockets](https://www.youtube.com/watch?v=IagOPTFL6e4), and [Cars](https://youtube.com/watch?v=TOWEAIG-OXU&feature=shares)
