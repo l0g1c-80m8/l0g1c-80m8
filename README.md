@@ -20,6 +20,8 @@ I also like to keep updated on embedded system development, blockchain, cyber se
 - 💬 Talk to me about [Robots](https://www.youtube.com/watch?v=QRbvNL1PHKg), [Rockets](https://www.youtube.com/watch?v=IagOPTFL6e4), and [Cars](https://youtube.com/watch?v=TOWEAIG-OXU&feature=shares)
 - Leisure time goes to boxing 🥊, [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), football ⚽, [...](https://www.youtube.com/watch?v=fllsKUNp8VA)
 
+#### [GitHub Gists](https://gist.github.com/l0g1c-80m8)
+
 
 ### 🤙 Find me on ###
 <div id="badges">
