@@ -9,7 +9,7 @@
 
 I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) about my work.
 
-By profession, I am a Software Engineer with demonstrated experience of working at a hyper-growth startup. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of  human-robot collaboration 🤖, space tech 🚀 and agriculture 🌳. Presently, I am working on sharpening my robotics skills.
+By profession, I am a Robotics Engineer (Software) with demonstrated experience of working at a hyper-growth startup. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of  human-robot collaboration 🤖, space tech 🚀 and agriculture 🌳. Presently, I am working on sharpening my robotics skills.
 
 I also like to keep updated on embedded system development, blockchain, cyber security and computer networking.
 
