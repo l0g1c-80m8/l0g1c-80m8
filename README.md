@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About me ###
 
-#### Presently: Robotics Engineer at [GrayMatter Robotics](https://graymatter-robotics.com/)
+#### Presently: Research Engineer at [Center for Advanced Manufacturing]([https://graymatter-robotics.com](https://sites.usc.edu/cam/)/)
 
 I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) about my work.
 
