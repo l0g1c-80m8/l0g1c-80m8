@@ -47,7 +47,7 @@ I also like to keep updated on embedded system development, blockchain, cyber se
   </a>
 </div>
 
-#### Feel free to leave a message to get in touch 🍉.
+#### Feel free to leave a message to get in touch 🍉
 
 <!---
 References:
