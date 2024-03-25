@@ -5,9 +5,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am Rutvik 🧙‍♂️
 </h1>
 
-### 👨‍💻 About me ###
-
 #### Presently: Research Engineer at [Center for Advanced Manufacturing](https://sites.usc.edu/cam/).
+
+### 👨‍💻 About me ###
 
 I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) about my work.
 
@@ -47,7 +47,7 @@ I also like to keep updated on embedded system development, blockchain, cyber se
   </a>
 </div>
 
-#### Feel free to leave a message to get in touch 🥥
+#### Feel free to leave a message to get in touch 🥥.
 
 <!---
 References:
