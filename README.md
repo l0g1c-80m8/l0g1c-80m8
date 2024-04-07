@@ -2,7 +2,7 @@
   <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc">
     Hello there
   </a>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am Rutvik 🧙‍♂️
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am  Rutvik 🧙‍♂️
 </h1>
 
 #### Presently: Research Engineer at [Center for Advanced Manufacturing](https://sites.usc.edu/cam/).
