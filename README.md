@@ -11,7 +11,7 @@
 
 I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) about my work.
 
-By profession, I am a Robotics Engineer with demonstrated experience of working at a hyper-growth startup. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of  manufacturing 🏭, agriculture 🌳 and space 🚀. Presently, I am working on sharpening my robotics skills.
+I am a Roboticist with demonstrated experience of working at a hyper-growth startup. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of  manufacturing 🏭, agriculture 🌳 and space 🚀. I am eager to learn from mentors and peers who share my enthusiasm and vision.
 
 I also like to keep updated on cyber security, embedded system development, blockchain and computer networking.
 
