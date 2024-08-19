@@ -16,7 +16,7 @@ I am a Roboticist with demonstrated experience of working at a hyper-growth star
 I also like to keep updated on cyber security, embedded system development, blockchain and computer networking.
 
 - 👨‍🎓 Computer Science [@USC](https://www.usc.edu/), [@VIT](https://vit.ac.in/)
-- 👨‍⚕️ Robotics Research [@ICAROS Lab, USC](https://icaros.usc.edu/), [@RRoS Lab (CAM), USC](https://sites.usc.edu/rros/)
+- 👨‍⚕️ Robotics Research [@ICAROS Lab, USC](https://icaros.usc.edu/), [@RRoS Lab (CAM), USC](https://sites.usc.edu/rros/), [@SLURM Lab](https://slurm-lab-usc.github.io/)
 - 👨‍💼 Former Software Engineer [@Tekion Corp.](https://tekion.com/)
 - 🙋‍♂️ Volunteer (embedded systems engineer) [@USC Rocket Propulsion Laboratory](http://www.uscrpl.com/)
 - 💬 Talk to me about [Robots](https://www.youtube.com/watch?v=QRbvNL1PHKg), [Rockets](https://www.youtube.com/watch?v=IagOPTFL6e4), and [Cars](https://youtube.com/watch?v=TOWEAIG-OXU&feature=shares)
