@@ -2,10 +2,8 @@
   <a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc">
     Hello there
   </a>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am Rutvik 🧙‍♂️
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I am [Rutvik](https://l0g1c-80m8.github.io/rutvik-patel/) 🧙‍♂️
 </h1>
-
-#### Presently: Robotics Engineer @ [GrayMatter Robotics](https://graymatter-robotics.com/) (see [logic-bomb-gmr](https://github.com/logic-bomb-gmr)).
 
 ### 👨‍💻 About me ###
 
@@ -13,12 +11,10 @@ I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) a
 
 I am a Roboticist with demonstrated experience of working at a hyper-growth startup. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of  manufacturing 🏭, agriculture 🌳 and space 🚀. I am eager to learn from mentors and peers who share my enthusiasm and vision.
 
-I also like to keep updated on cyber security, embedded system development, blockchain and computer networking.
-
-- 👨‍🎓 Computer Science [@USC](https://www.usc.edu/), [@VIT](https://vit.ac.in/)
 - 👨‍⚕️ Robotics Research [@ICAROS Lab, USC](https://icaros.usc.edu/), [@RRoS Lab (CAM), USC](https://sites.usc.edu/rros/), [@SLURM Lab](https://slurm-lab-usc.github.io/)
-- 👨‍💼 Former Software Engineer [@Tekion Corp.](https://tekion.com/)
+- 👨‍💼 Robotics Engineer [@GrayMatter Robotics](https://graymatter-robotics.com/) (see: [logic-bomb-gmr](https://github.com/logic-bomb-gmr)), Former Software Engineer [@Tekion Corp.](https://tekion.com/)
 - 🙋‍♂️ Volunteer (embedded systems engineer) [@USC Rocket Propulsion Laboratory](http://www.uscrpl.com/)
+- 👨‍🎓 Computer Science [@USC](https://www.usc.edu/), [@VIT](https://vit.ac.in/)
 - 💬 Talk to me about [Robots](https://www.youtube.com/watch?v=QRbvNL1PHKg), [Rockets](https://www.youtube.com/watch?v=IagOPTFL6e4), and [Cars](https://youtube.com/watch?v=TOWEAIG-OXU&feature=shares)
 - Leisure time goes to [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), running 🏃, [...](https://www.youtube.com/watch?v=fllsKUNp8VA)
 
@@ -27,6 +23,9 @@ I also like to keep updated on cyber security, embedded system development, bloc
 
 ### 🤙 Find me on ###
 <div id="badges">
+  <a href="https://l0g1c-80m8.github.io/rutvik-patel/">
+    <img src="https://img.shields.io/badge/Personal_Website-00d4ff?style=for-the-badge&logoColor=white" alt="Personal Website Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/rutvik-p4t3l/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -42,7 +41,7 @@ I also like to keep updated on cyber security, embedded system development, bloc
   <a href="https://discordapp.com/users/508653801406726147">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="mailto:rutvik.p4t3l@gmail.com">
+  <a href="mailto:rutvikra@usc.edu">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
