@@ -7,9 +7,9 @@
 
 ### 👨‍💻 About me ###
 
-I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) about my work.
+I am a roboticist with demonstrated experience of working at hyper-growth startups. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of manufacturing 🏭, agriculture 🌳 and space 🚀. I am eager to learn from mentors and peers who share my enthusiasm and vision.
 
-I am a Roboticist with demonstrated experience of working at a hyper-growth startup. I am passionate about building technology-driven solutions to real-world challenges, particularly in the domains of  manufacturing 🏭, agriculture 🌳 and space 🚀. I am eager to learn from mentors and peers who share my enthusiasm and vision.
+My ultimate goal is to be a truly great engineer: one who can envision non-existent technologies to solve the world's greatest problems, and who possesses the technical prowess and discipline to bring those visions into reality. 
 
 - 👨‍⚕️ Robotics Research [@ICAROS Lab, USC](https://icaros.usc.edu/), [@RRoS Lab (CAM), USC](https://sites.usc.edu/rros/), [@SLURM Lab](https://slurm-lab-usc.github.io/)
 - 👨‍💼 Robotics Engineer [@GrayMatter Robotics](https://graymatter-robotics.com/) (see: [logic-bomb-gmr](https://github.com/logic-bomb-gmr)), Former Software Engineer [@Tekion Corp.](https://tekion.com/)
@@ -18,7 +18,9 @@ I am a Roboticist with demonstrated experience of working at a hyper-growth star
 - 💬 Talk to me about [Robots](https://www.youtube.com/watch?v=QRbvNL1PHKg), [Rockets](https://www.youtube.com/watch?v=IagOPTFL6e4), and [Cars](https://youtube.com/watch?v=TOWEAIG-OXU&feature=shares)
 - Leisure time goes to [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), running 🏃, [...](https://www.youtube.com/watch?v=fllsKUNp8VA)
 
-#### [GitHub Gists](https://gist.github.com/l0g1c-80m8)
+
+#### I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) about my work.
+<!--- #### [GitHub Gists](https://gist.github.com/l0g1c-80m8) --->
 
 
 ### 🤙 Find me on ###
