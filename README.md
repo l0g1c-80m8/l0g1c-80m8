@@ -12,7 +12,7 @@ I am a roboticist with demonstrated experience of working at hyper-growth startu
 My ultimate goal is to be a truly great engineer: one who can envision non-existent technologies to solve the world's greatest problems, and who possesses the technical prowess and discipline to bring those visions into reality. 
 
 - 👨‍⚕️ Robotics Research [@ICAROS Lab, USC](https://icaros.usc.edu/), [@RRoS Lab (CAM), USC](https://sites.usc.edu/rros/), [@SLURM Lab](https://slurm-lab-usc.github.io/)
-- 👨‍💼 Robotics Engineer [@GrayMatter Robotics](https://graymatter-robotics.com/), Former Software Engineer [@Tekion Corp.](https://tekion.com/)
+- 👨‍💼 Robotics Software Engineer [Nimble Robotics (Current)](https://www.nimble.ai/), [@GrayMatter Robotics](https://graymatter-robotics.com/), Software Engineer [@Tekion Corp.](https://tekion.com/)
 - 🙋‍♂️ Volunteer (embedded systems engineer) [@USC Rocket Propulsion Laboratory](http://www.uscrpl.com/)
 - 👨‍🎓 Computer Science [@USC](https://www.usc.edu/), [@VIT](https://vit.ac.in/)
 - 💬 Talk to me about [Robots](https://www.youtube.com/watch?v=QRbvNL1PHKg), [Rockets](https://www.youtube.com/watch?v=IagOPTFL6e4), and [Cars](https://youtube.com/watch?v=TOWEAIG-OXU&feature=shares)
