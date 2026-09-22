@@ -14,7 +14,7 @@ My ultimate goal is to be a truly great engineer: one who can envision non-exist
 - 👨‍⚕️ Robotics Research [@RRoS Lab (CAM), USC](https://sites.usc.edu/rros/), [@SLURM Lab](https://slurm-lab-usc.github.io/), [@ICAROS Lab, USC](https://icaros.usc.edu/)
 - 👨‍💼 Robotics Engineer [@Skild AI](https://skild.ai/), [@Nimble Robotics](https://www.nimble.ai/), [@GrayMatter Robotics](https://graymatter-robotics.com/), Software Engineer [@Tekion Corp.](https://tekion.com/)
 - 🙋‍♂️ Volunteer (embedded systems engineer) [@USC Rocket Propulsion Laboratory](http://www.uscrpl.com/)
-- 👨‍🎓 Computer Science [@USC](https://www.usc.edu/), [@VIT](https://vit.ac.in/)
+- 👨‍🎓 Computer Science and Robotics [@USC](https://www.usc.edu/), [@VIT](https://vit.ac.in/)
 - 💬 Talk to me about [Robots](https://www.youtube.com/watch?v=QRbvNL1PHKg), [Rockets](https://www.youtube.com/watch?v=IagOPTFL6e4), and [Cars](https://youtube.com/watch?v=TOWEAIG-OXU&feature=shares)
 - Leisure time goes to [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), running 🏃, [...](https://www.youtube.com/watch?v=fllsKUNp8VA)
 
