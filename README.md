@@ -11,12 +11,16 @@ I am a robotics engineer with demonstrated experience of working at hyper-growth
 
 My ultimate goal is to be a truly great engineer: one who can envision non-existent technologies to solve the world's greatest problems, and who possesses the technical prowess and discipline to bring those visions into reality. 
 
+- 👨‍💼 Engineer
+  - Member of Technical Staff [@Skild AI](https://skild.ai/)
+  - Robotics Software Engineer [@Nimble Robotics](https://www.nimble.ai/)
+  - Robotics Engineer [@GrayMatter Robotics](https://graymatter-robotics.com/)
+  - Software Engineer [@Tekion Corp.](https://tekion.com/)
 - 👨‍⚕️ Robotics Research [@RRoS Lab (CAM), USC](https://sites.usc.edu/rros/), [@SLURM Lab](https://slurm-lab-usc.github.io/), [@ICAROS Lab, USC](https://icaros.usc.edu/)
-- 👨‍💼 Robotics Engineer [@Skild AI](https://skild.ai/), [@Nimble Robotics](https://www.nimble.ai/), [@GrayMatter Robotics](https://graymatter-robotics.com/), Software Engineer [@Tekion Corp.](https://tekion.com/)
 - 🙋‍♂️ Volunteer (embedded systems engineer) [@USC Rocket Propulsion Laboratory](http://www.uscrpl.com/)
 - 👨‍🎓 Computer Science and Robotics [@USC](https://www.usc.edu/), [@VIT](https://vit.ac.in/)
 - 💬 Talk to me about [Robots](https://www.youtube.com/watch?v=QRbvNL1PHKg), [Rockets](https://www.youtube.com/watch?v=IagOPTFL6e4), and [Cars](https://youtube.com/watch?v=TOWEAIG-OXU&feature=shares)
-- Leisure time goes to [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), running 🏃, [...](https://www.youtube.com/watch?v=fllsKUNp8VA)
+- Leisure time goes to [go-karting 🏎️](https://youtube.com/watch?v=2ndLSBPHT2E&feature=shares), rowing 🚣, running 🏃, [...](https://www.youtube.com/watch?v=fllsKUNp8VA)
 
 
 #### I am passionate and [disciplined](https://www.youtube.com/watch?v=d0MqYLLSrmQ) about my work.
