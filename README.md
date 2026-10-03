@@ -12,7 +12,7 @@ I am a robotics engineer with demonstrated experience of working at hyper-growth
 My ultimate goal is to be a truly great engineer: one who can envision non-existent technologies to solve the world's greatest problems, and who possesses the technical prowess and discipline to bring those visions into reality. 
 
 - 👨‍💼 Engineer
-  - Member of Technical Staff [@Skild AI](https://skild.ai/), see: [rpatel-skd](https://github.com/rpatel-skd)
+  - Member of Technical Staff [@Skild AI](https://skild.ai/), see: [rpatel](https://skild-ai.ghe.com/rpatel), [l0g1c-80m8-skd](https://github.com/rpatel-skd) (archived)
   - Robotics Software Engineer [@Nimble Robotics](https://www.nimble.ai/)
   - Robotics Engineer [@GrayMatter Robotics](https://graymatter-robotics.com/)
   - Software Engineer [@Tekion Corp.](https://tekion.com/)
